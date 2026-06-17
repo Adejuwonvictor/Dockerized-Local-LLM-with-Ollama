@@ -1,0 +1,6 @@
+dockerized-ai-app/venv/
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
