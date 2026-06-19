@@ -1,4 +1,3 @@
-dockerized-ai-app/venv/
 .env
 venv/
 __pycache__/
